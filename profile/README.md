@@ -27,4 +27,4 @@ TWM - это сообщество разработчиков, занимающи
 ---
 ## Авторы
 ### программисты
-[https://github.com/depozitS]
+(https://github.com/depozitS)
