@@ -1,27 +1,22 @@
 # The Worst Mod 
+Hi! Welcome to The Worst Mod (TWM) repository , our organization dedicated to Minecraft modding.
 
-Привет! Добро пожаловать в репозиторий The Worst Mod (TWM) - нашей организации, посвященной моддингу Minecraft.
+## About the project
+TWM is a community of developers who create mods and tools for Minecraft. Our project started as an idea to create mods to improve the gameplay, but we are also developing a program to create custom recipes and textures.
 
-## О проекте
+## Key Features
+- **Mods for Minecraft:** We are working on unique and interesting modifications for Minecraft.
 
-TWM - это сообщество разработчиков, занимающихся созданием модов и инструментов для Minecraft. Наш проект начался как идея создания модов для улучшения игрового процесса, но мы также разрабатываем программу для создания кастомных рецептов и текстур.
+- **A program for creating recipes and textures:** We are developing a tool to simplify the creation of custom recipes and textures in the world of Minecraft.
 
-## Ключевые особенности
+> P.S. however, we are still at the beginning of our creative journey)
 
-- **Моды для Minecraft:** Работаем над уникальными и интересными модификациями для Minecraft.
-- **Программа для создания рецептов и текстур:** Разрабатываем инструмент для упрощения создания кастомных рецептов и текстур в мире Minecraft.
-> P.s. правда мы пока в начале нашего творческого пути)
+## Contribution to the project
+We welcome your ideas and contributions to the development of the project! If you have any suggestions, create an issue.
 
-## Вклад в проект
+## License ##
+This project is licensed under the [MIT] license(https://github.com/TWMhub/.github/blob/main/LICENSE).
 
-Мы приветствуем ваши идеи и вклад в развитие проекта! Если у вас есть предложения, создайте issue.
-
-## Лицензия
-
-Этот проект лицензирован по лицензии [MIT](https://github.com/TWMhub/.github/blob/main/LICENSE).
-
----
-
-Спасибо, что интересуетесь TWM! Присоединяйтесь к нам в создании увлекательного игрового опыта в Minecraft.
+Thank you for being interested in TWM! Join us in creating an exciting Minecraft gaming experience.
 
 
